@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou cursando ADS na Biopark desde janeiro de 2022,  possuo conhecimento em linguagens como Html, Css, Java e dart, sendo prioridades python e framework Django.
+Atualmente estou cursando ADS na Biopark desde janeiro de 2022,  possuo conhecimento em linguagens como Html, TailwindCss, Java e dart, sendo prioridades python e framework Django.
 
 
 ## 🌐 Socials:
